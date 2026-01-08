@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="DTP_Loops_ConsoleApp_Multiplication_table/DTP_Loops_ConsoleApp_Multiplication_table.csproj" />
   <Project Path="DTP_Loops_the_biggest__number_ConsoleApp/DTP_Loops_the_biggest__number_ConsoleApp.csproj" Id="a11d3111-0994-4905-8323-5e7e457edf8e" />
+  <Project Path="DTP_Loops_two_7s_beside_each_other_ConsoleApp/DTP_Loops_two_7s_beside_each_other_ConsoleApp.csproj" Id="3ccf57b2-37cd-4385-975e-f41c3f7522f7" />
 </Solution>
