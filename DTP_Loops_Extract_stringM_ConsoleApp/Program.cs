@@ -19,7 +19,7 @@
             {
                 return "";
             }
-            string output = input.Substring(Math.Abs(startIndex), Math.Abs(endIndex));
+            string output = input.Substring(startIndex,endIndex);
             return output.Replace("##", "");
 
         }
