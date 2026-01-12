@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="DTP_Loops_ConsoleApp_Multiplication_table/DTP_Loops_ConsoleApp_Multiplication_table.csproj" />
+  <Project Path="DTP_Loops_Extract_stringM_ConsoleApp/DTP_Loops_Extract_stringM_ConsoleApp.csproj" Id="124e573a-b3fe-43cf-a5ad-5ee65174c09c" />
   <Project Path="DTP_Loops_find_prime_numbers_ConsoleApp/DTP_Loops_find_prime_numbers_ConsoleApp.csproj" Id="815555bf-1038-4a4c-aef8-8fadf605a285" />
   <Project Path="DTP_Loops_the_biggest__number_ConsoleApp/DTP_Loops_the_biggest__number_ConsoleApp.csproj" Id="a11d3111-0994-4905-8323-5e7e457edf8e" />
   <Project Path="DTP_Loops_Three_increasing_adjacent_ConsoleApp/DTP_Loops_Three_increasing_adjacent_ConsoleApp.csproj" Id="a7cbffd6-cd30-4bd1-aeeb-96c1527b4f9a" />
