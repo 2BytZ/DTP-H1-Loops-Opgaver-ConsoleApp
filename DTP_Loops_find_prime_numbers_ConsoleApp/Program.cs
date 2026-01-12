@@ -1,11 +1,5 @@
 ﻿using System.Numerics;
 
-
-//Current issue
-//May or may not skip numbers 
-
-
-
 namespace DTP_Loops_find_prime_numbers_ConsoleApp
 {
     internal class Program
@@ -34,10 +28,9 @@ namespace DTP_Loops_find_prime_numbers_ConsoleApp
                 Console.WriteLine($"Added {range[0]} to primeNumbers list.");// Debug msg
                 range.Remove(range[0]);
                 Console.WriteLine($"Removed {primeNumbers[0]} from range list.");// Debug msg
-                for (int numIndex = 0; numIndex < range.Count;)
+                for (int primeNum = 0; primeNum < primeNumbers.Count;)
                 {
-                    int primeNum;
-                    for (primeNum = 0; primeNum < primeNumbers.Count;)
+                    for (int numIndex = 0; numIndex < range.Count;)
                     {
                             if (range[numIndex] % primeNumbers[primeNum] == 0)
                             {
@@ -62,8 +55,8 @@ namespace DTP_Loops_find_prime_numbers_ConsoleApp
                     range.Remove(range[0]);
                     Console.WriteLine($"Removed {primeNumbers[0]} from range list.");// Debug msg
                     Console.WriteLine("Decreased numIndex by 1!");
-                        numIndex -= 1;
-                        Console.WriteLine($"numIndex is now {numIndex}!"); // Debug msg
+                        //numIndex -= 1;
+                        //Console.WriteLine($"numIndex is now {numIndex}!"); // Debug msg
                     primeNum++;
                     Console.WriteLine("Increased primeNum by 1!"); // Debug msg
                 }
