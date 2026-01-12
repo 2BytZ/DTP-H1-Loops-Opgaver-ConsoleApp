@@ -1,10 +1,12 @@
 <Solution>
   <Project Path="DTP_Loops_ConsoleApp_Multiplication_table/DTP_Loops_ConsoleApp_Multiplication_table.csproj" />
+  <Project Path="DTP_Loops_Draw_a_triangle_ConsoleApp/DTP_Loops_Draw_a_triangle_ConsoleApp.csproj" Id="62344500-05ab-41ed-8d9c-4dfeeed08925" />
   <Project Path="DTP_Loops_Extract_stringM_ConsoleApp/DTP_Loops_Extract_stringM_ConsoleApp.csproj" Id="124e573a-b3fe-43cf-a5ad-5ee65174c09c" />
   <Project Path="DTP_Loops_find_prime_numbers_ConsoleApp/DTP_Loops_find_prime_numbers_ConsoleApp.csproj" Id="815555bf-1038-4a4c-aef8-8fadf605a285" />
   <Project Path="DTP_Loops_Full_sequence_ConsoleApp/DTP_Loops_Full_sequence_ConsoleApp.csproj" Id="79e8dcca-c2cc-479f-9b66-47182c8be2fd" />
   <Project Path="DTP_Loops_Sum_of_average_ConsoleApp/DTP_Loops_Sum_and_average_ConsoleApp.csproj" Id="fb29c67a-1c65-40cf-976c-d120868fa468" />
   <Project Path="DTP_Loops_the_biggest__number_ConsoleApp/DTP_Loops_the_biggest__number_ConsoleApp.csproj" Id="a11d3111-0994-4905-8323-5e7e457edf8e" />
   <Project Path="DTP_Loops_Three_increasing_adjacent_ConsoleApp/DTP_Loops_Three_increasing_adjacent_ConsoleApp.csproj" Id="a7cbffd6-cd30-4bd1-aeeb-96c1527b4f9a" />
+  <Project Path="DTP_Loops_To_the_power_of_ConsoleApp/DTP_Loops_To_the_power_of_ConsoleApp.csproj" Id="7c5f84d6-63cf-4daf-9161-13db5811f109" />
   <Project Path="DTP_Loops_two_7s_beside_each_other_ConsoleApp/DTP_Loops_two_7s_beside_each_other_ConsoleApp.csproj" Id="3ccf57b2-37cd-4385-975e-f41c3f7522f7" />
 </Solution>
